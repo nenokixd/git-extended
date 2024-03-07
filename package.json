@@ -1,0 +1,15 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "keywords": [],
+  "repository": "git@github.com:nenokixd/git-extended.git",
+  "author": "Chekmarev Alexander sasha.cekmarev4@mail.ru",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+        "path": "cz-conventional-changelog"
+    }
+  }
+}
